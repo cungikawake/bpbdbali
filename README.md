@@ -12,7 +12,8 @@
  1. composer install
  2. php artisan key:generate
  3. import database manual di folder database
- 4. php artisan serve
+ 4. composer update
+ 5. php artisan serve
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT).
